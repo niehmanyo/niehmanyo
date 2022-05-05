@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @niehmanyo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m 
+- 👀 I’m interested in lan qiu
+- 🌱 I’m currently learning hao duo dong xi
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...ke yi jia vx
+- ✊ 努力努力再努力
 
 <!---
 niehmanyo/niehmanyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
