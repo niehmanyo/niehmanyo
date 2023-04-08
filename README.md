@@ -1,9 +1,9 @@
 - 👋 Hi, I’m 
-- 👀 I’m interested in lan qiu
-- 🌱 I’m currently learning hao duo dong xi
+- 👀 I’m interested in basketball
+- 🌱 I’m currently learning #machinelearning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ke yi jia vx
-- ✊ 努力努力再努力
+- 📫 How to reach me, you can add vx:keeptimewaitfortime
+- ✊ keep going 🏀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niehmanyo&show_icons=true&theme=tokyonight)
 <!---
